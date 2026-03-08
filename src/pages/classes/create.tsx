@@ -138,7 +138,7 @@ const ClassesCreate = () => {
                                                             }
                                                             : null
                                                     }
-                                                    onChange={(file: any, field: any) =>
+                                                    onChange={(file: any) =>
                                                         setBannerImage(file, field)
                                                     }
                                                 />
