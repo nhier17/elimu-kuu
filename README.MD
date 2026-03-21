@@ -36,9 +36,6 @@
 
 Elimu Kuu is a high-performance academic management hub built on the PERN stack. This multi-role system (Admin, Teacher, Student) features a decoupled architecture with an Express.js backend and a Refine-powered React frontend. Utilizing PostgreSQL (Neon) with Drizzle ORM, it ensures type-safe data integrity for class scheduling, departmental governance, and real-time institution analytics. Security and access control are handled via Better-Auth and Arcjet, providing a robust environment for modern campus operations.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **50k+** members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
